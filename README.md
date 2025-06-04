@@ -30,7 +30,7 @@ Users should be able to:
   ### Links
 
 - Solution URL: [Punyantor-Solution-Intro-Component](https://github.com/Punyanator/Intro-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Punyantor live site url](https://punyanator.github.io/Intro-component/)
 
 
 ### Built with
