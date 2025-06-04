@@ -29,7 +29,7 @@ Users should be able to:
 
   ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Punyanator/Intro-component.git)
+- Solution URL: [Punyantor-Solution-Intro-Component](https://github.com/Punyanator/Intro-component.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
